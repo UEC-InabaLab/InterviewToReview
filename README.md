@@ -41,7 +41,7 @@ Follow these steps to get up and running quickly:
 
    ```bash
    git clone https://github.com/UEC-InabaLab/InterviewToReview.git
-   cd InterviewforReviewWriting
+   cd InterviewToReview
    ```
 
 2. **Install dependencies**
